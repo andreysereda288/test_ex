@@ -1,0 +1,28 @@
+ID;Планировка;Этаж;Площадь;Доступность;Цена;Тип;Терасса;Ссылка
+101;ground floor + gallery;1;58,50;reserved;Not available;commercial space;-;https://www.italska8.cz/nebytova-jednotka-06-kopie
+102;ground floor + gallery;1;58,70;reserved;Not available;commercial space;-;https://www.italska8.cz/nebytova-jednotka-01-kopie
+01;2+kk;-1;61,00;reserved;Not available;apartment;27,80;https://www.italska8.cz/nebytova-jednotka-02-kopie
+103;2+kk;-1;60,80;reserved;Not available;atelier;26,00;https://www.italska8.cz/bytova-jednotka-01-kopie
+11;2+kk;1;64,70;available;7911500;apartment;-;https://www.italska8.cz/bytova-jednotka-02-kopie
+12;2+kk;1;66,60;available;8109000;apartment;-;https://www.italska8.cz/bytova-jednotka-11-kopie
+21;2+kk;2;57,50;reserved;8047200;apartment;-;https://www.italska8.cz/bytova-jednotka-12-kopie
+22;2+kk;2;60,50;reserved;8502500;apartment;-;https://www.italska8.cz/bytova-jednotka-21-kopie
+23;2+kk;2;62,60;available;8857000;apartment;-;https://www.italska8.cz/bytova-jednotka-22-kopie
+24;2+kk;2;56,40;available;8085500;apartment;-;https://www.italska8.cz/bytova-jednotka-23-kopie
+31;2+kk;3;58,10;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-24-kopie
+32;2+kk;3;60,80;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-31-kopie
+33;2+kk;3;62,80;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-32-kopie
+34;2+kk;3;56,60;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-33-kopie
+41;2+kk;4;57,40;available;8395100;apartment;-;https://www.italska8.cz/bytova-jednotka-34-kopie
+42;2+kk;4;61,20;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-41-kopie
+43;2+kk;4;63,40;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-42-kopie
+44;2+kk;4;57,20;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-43-kopie
+51;2+kk;5;57,70;available;8666000;apartment;-;https://www.italska8.cz/bytova-jednotka-44-kopie
+52;2+kk;5;61,10;available;9177150;apartment;-;https://www.italska8.cz/bytova-jednotka-51-kopie
+53;2+kk;5;62,90;reserved;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-52-kopie
+54;2+kk;5;56,50;available;8484300;apartment;-;https://www.italska8.cz/bytova-jednotka-53-kopie
+61;Unknown;6;;sold;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-54-kopie
+62;Unknown;6-7;;sold;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-61-kopie
+63;Unknown;6;;sold;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-62-kopie
+64;Unknown;6;;sold;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-63-kopie
+65;Unknown;6;;sold;Not available;apartment;-;https://www.italska8.cz/bytova-jednotka-64-kopie
